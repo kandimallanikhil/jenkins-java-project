@@ -8,10 +8,10 @@
 }
 </style>
 <body style="background-color:aquamarine;">
-<h1 style="color:#0000FF;"> We all wish you a very Happy Birthday on your special day….</h1>
-<h2> May this one be the bests of All….</h2>
-<h2> Here’s a small token of love from all of us for you….</h2>
-<h2> Words that describe you……</h2>
+<h1 style="color:#0000FF;"> We all wish you a very Happy Birthday on your special day</h1>
+<h2> May this one be the bests of All</h2>
+<h2> Here’s a small token of love from all of us for you</h2>
+<h2> Words that describe you</h2>
 <h3> C = consistent</h3>
 <h3> H=Humble</h3>
 <h3> A=Approachable</h3>
